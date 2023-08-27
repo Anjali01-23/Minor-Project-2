@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+
+
+#Intro{
+    height:100vh;
+    width:300px;
+    background-color:rgb(110, 229, 229);
+    display: inline-block;
+    padding-left:8px;
+    
+
+}
+#Heading{
+    margin-top:5px;
+}
+.Class{
+    margin-bottom:6px;
+}
+#right{
+    height: 100vh;
+    width:1000px;
+    background-color:rgb(117, 190, 190);
+    display: inline-block;
+    position: absolute;
+    top:0px;
+    padding-left:5px;
+
+
+
+    
+}
